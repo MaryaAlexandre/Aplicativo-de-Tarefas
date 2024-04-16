@@ -17,18 +17,18 @@ Compilação do Código:
 - javac Main.java
 
 
-Interagindo com o Aplicativo:
+# Interagindo com o Aplicativo:
 Lista de Tarefas:
 1. [ ] Estudar para a prova de matemática
 2. [X] Fazer compras no mercado
 Marcar uma tarefa como concluída:
 
-Digite o número da tarefa a ser marcada como concluída: 1
+ Digite o número da tarefa a ser marcada como concluída: 1
 Tarefa marcada como concluída com sucesso!
 
-Remover uma tarefa:
+# Remover uma tarefa:
 Digite o número da tarefa a ser removida: 2
 Tarefa removida com sucesso!
 
-Contribuição
+# Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
